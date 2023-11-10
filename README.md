@@ -7,7 +7,7 @@ This repository should only be here TEMPORARILY.
 
 
 
-// AI self scan //
+/* AI self scan /*
 
 As this is quite a chunky project github has not been happy about having this all uploaded.
 The main issue is that of the dataset(s). They are several gigabytes large (and so github doesn't like when I try to upload them).
