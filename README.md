@@ -18,7 +18,7 @@ One other thing is that Github has altered the file structure slighty (due to em
 TODO
 - This all needs to be run on either a seperate server (with API calls set up) or on sagemaker (which ever has been decided)
 - In addition some post processing will be needed to get the data in the format needed (short task)
-- fix simple run file structure (vv short)
+- fix "run - train , detect, val" file structure (vv short)
 
 
 // Ask Chat GPT //
